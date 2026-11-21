@@ -1,0 +1,6 @@
+@MarginGuard.API_HostAddress = http://localhost:5224
+
+GET {{MarginGuard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
